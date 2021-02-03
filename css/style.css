@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Arimo:wght@400;500;600;700&family=Lora:wght@400;500;600;700&display=swap");
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h2, {
+	font-family: 'Arimo', sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 22px;
+}
+
+a {text-decoration: none;}
+
+.btn-lightblue 
+	{background-color: #3484D4;
+	color: white;
+	padding: 10px 15px;
+	border-radius: 5px;}
+
+.btn-lightblue:hover
+	{background-color: #3484D4;
+	color: black;}
+
+.list-inline
+	{list-style: none;
+	padding-left: 0px;}
+
+.list-inline li 
+	{display: inline;
+	padding: 10px;}
+
+.list-inline i 
+	{font-size: 45px;
+	color: rgba(52, 132, 212, 0.5);}
+
+.list-inline i:hover
+	{color: rgba(52, 132, 212, 1);}

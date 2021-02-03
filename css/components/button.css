@@ -1,0 +1,16 @@
+.btn-blue {
+	background-color: #3484D4;
+	color: white;
+	font-family: 'Lora', serif;
+	padding: 10px 15px;
+	border-radius: 5px;
+	font-weight: bold;
+	 }
+
+.btn-blue:hover
+	{background-color: #3484D4;
+	color: black;}
+
+#introduction p
+	{margin-bottom: 35px}
+	
